@@ -1,6 +1,31 @@
-{
-  "tisut": [
-    { "number": 1, "time": "5:15pm" },
-    { "number": 2, "time": "11:00pm" }
-  ]
+{  
+   "flights":[  
+      {  
+         "id":1,
+         "airline":"Delta",
+         "link":"https://www.letsbuildthatapp.com/course/instagram-firebase",
+         "imageUrl":"https://content.delta.com/content/www/us/en.damAssetRender.20180509T1731290530400.html/content/dam/delta_homepage_redesign/Logo/Delta%20Logo.svg",
+         "flightNumber":"D-2021",
+         "flightTime":"18:40",
+         "flightDate":"07-09-2019"
+      },
+      {  
+         "id":2,
+         "airline":"American Airlines",
+         "link":"https://www.aa.com/homePage.do",
+         "imageUrl":"https://www.aa.com/content/images/chrome/rebrand/aa-logo.png",
+         "flightNumber":"AA-233",
+         "flightTime":"14:20",
+         "flightDate":"06-22-2019"
+      },
+      {  
+         "id":2,
+         "airline":"United",
+         "link":"https://www.united.com/en/us",
+         "imageUrl":"https://www.united.com/661e911706600354f92137ebbd4153ea.svg",
+         "flightNumber":"UA-986",
+         "flightTime":"11:10",
+         "flightDate":"06-11-2019"
+      }
+   ]
 }
