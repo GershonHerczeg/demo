@@ -4,7 +4,7 @@
          "id":1,
          "airline":"Delta",
          "link":"https://www.letsbuildthatapp.com/course/instagram-firebase",
-         "imageUrl":"https://content.delta.com/content/www/us/en.damAssetRender.20180509T1731290530400.html/content/dam/delta_homepage_redesign/Logo/Delta%20Logo.svg",
+         "imageUrl":"https://rm-core-production.s3.amazonaws.com/logos/3749/large_Delta_Airlines_Logo.PNG",
          "flightNumber":"D-2021",
          "flightTime":"18:40",
          "flightDate":"07-09-2019"
