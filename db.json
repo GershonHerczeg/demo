@@ -6,7 +6,8 @@
          "link":"https://www.letsbuildthatapp.com/course/instagram-firebase",
          "imageUrl":"http://cloud2.whattheflight.com/images/wtf/logos/airlines/delta-air-lines.gif",
          "flightNumber":"D-2021",
-         "flightTime":"18:40",
+         "flightTime":"7:40",
+         "flightAmPm":"am",
          "flightDate":"07-09-2019"
       },
       {  
@@ -15,7 +16,8 @@
          "link":"https://www.aa.com/homePage.do",
          "imageUrl":"http://cloud1.whattheflight.com/images/wtf/logos/airlines/American_Airlines_logo_2013_svg.png",
          "flightNumber":"AA-233",
-         "flightTime":"14:20",
+         "flightTime":"2:20",
+         "flightAmPm":"pm",
          "flightDate":"06-22-2019"
       },
       {  
@@ -25,6 +27,7 @@
          "imageUrl":"http://cloud2.whattheflight.com/images/wtf/logos/airlines/united_tm.jpg",
          "flightNumber":"UA-986",
          "flightTime":"11:10",
+         "flightAmPm":"pm",
          "flightDate":"06-11-2019"
       }
    ]
